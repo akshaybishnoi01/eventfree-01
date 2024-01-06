@@ -31,6 +31,7 @@
     padding-left: 12px;
     padding-right: 12px;
 }
+
 .col-12 {
     width: 100%;
     padding-left: 12px;
@@ -593,22 +594,27 @@
     line-height: normal;
     padding-bottom: 25px;
 }
+
 .cur-pointer {
     cursor: pointer;
 }
+
 .padding {
     padding-top: 13px;
     padding-left: 23px;
     padding-right: 33px;
     padding-bottom: 13px;
 }
+
 .p-fixed {
-    position:fixed;
+    position: fixed;
     z-index: 2;
 }
+
 .pt20 {
     padding-top: 20px;
 }
+
 @media (max-width:992px) {
     ul.mobile_view {
         flex-direction: column;
@@ -625,6 +631,7 @@
         transition: all 600ms linear;
         z-index: 10;
     }
+
     .pt20 {
         padding-top: 60px;
     }
@@ -647,6 +654,7 @@
     #menu-box:checked~ul.mobile_view {
         right: 0;
     }
+
     .mt-67 {
         margin-top: 25px;
     }
@@ -674,6 +682,7 @@
     .m-t80 {
         margin-top: 28px;
     }
+
     .ptb {
         padding-top: 18px;
         padding-bottom: 30px;
@@ -693,9 +702,11 @@
         padding-right: 33px;
         padding-bottom: 13px;
     }
-    .pra-1{
+
+    .pra-1 {
         padding-top: 10px;
     }
+
     .pra-9 {
         padding-top: 20px;
     }
@@ -714,6 +725,7 @@
         padding-left: 12px;
         padding-right: 12px;
     }
+
     .col-sm- {
         width: 100%;
         padding-left: 12px;
@@ -759,16 +771,20 @@
     .c-name {
         font-size: 10px;
     }
+
     .event_1 {
         font-size: 27px;
     }
+
     .free {
         font-size: 27px;
     }
+
     .add-n {
         font-size: 16px;
     }
 }
+
 @media (min-width:576px) {
     .col-md-8 {
         width: 66.66%;
@@ -802,6 +818,7 @@
         padding-left: 12px;
         padding-right: 12px;
     }
+
     .pra-1 {
         padding-top: 15px;
     }
